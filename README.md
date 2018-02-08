@@ -1,1 +1,2 @@
-# fe_theme
+# FrontendTheme
+basic FE structure / sass
