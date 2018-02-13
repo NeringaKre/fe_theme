@@ -1,0 +1,12 @@
+// Bebas Neue Book
+@font-face {
+  font-family: 'BebasNeue';
+  font-weight: $fw-regular;
+  font-style: normal;
+  src: url("../assets/bebas-neue/BebasNeue_Book.eot?#iefix");
+  src: url("../assets/bebas-neue/BebasNeue_Book.eot?#iefix") format("eot"),
+  url("../assets/bebas-neue/BebasNeue_Book.woff2") format("woff2"),
+  url("../assets/bebas-neue/BebasNeue_Book.woff") format("woff"),
+  url("../assets/bebas-neue/BebasNeue_Book.ttf") format("truetype"),
+  url("../assets/bebas-neue/BebasNeue_Book.svg") format("svg");
+}
